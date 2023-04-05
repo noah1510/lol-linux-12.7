@@ -1,0 +1,3 @@
+[submodule "leagueoflegends"]
+	path = leagueoflegends
+	url = https://github.com/kyechou/leagueoflegends.git
